@@ -12,7 +12,7 @@ So in short, to run the program:
 1. Download the project in this repository by going to the green scroll down bar (on the right side)
 2. Download the file as a zip
 3. unzip the file (if you're using mac, you can unzip the file by simply clicking on the zipped file)
-4. take note on where the unzipped file is located on your computer
+4. take note where the unzipped file is located on your computer
 5. Open up terminal
 6. Go to the location of the unzipped file, changing directories as needed, until you get to the src file
 7. Once in the src file, compile the program by doing "javac ColorMapofUS/Main.java"
