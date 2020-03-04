@@ -7,4 +7,13 @@ To run my code on the command line, I had a "git" directory that stored my comp 
 
 So in short, to run the program:
 
-1. Download the project on 
+1. Download the project in this repository by going to the green scroll down bar (on the right side)
+2. Download the file as a zip
+3. unzip the file (if you're using mac, you can unzip the file by simply clicking on the zipped file)
+4. take note on where the unzipped file is located on your computer
+5. Open up terminal
+6. Go to the location of the unzipped file, changing directories as needed, until you get to the src file
+7. Once in the src file, compile the program by doing "javac ColorMapofUS/Main.java"
+8. After you compile the program, run it by doing "java -cp . ColorMapofUS.Main"
+
+Note: On my computer, the code only runs when I follow the steps in the first paragraph of this README file. Otherwise, it'll give me a "FileNotFoundException".
