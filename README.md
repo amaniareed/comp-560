@@ -7,3 +7,4 @@ To run my code on the command line, I had a "git" directory that stored my comp 
 
 So in short, to run the program:
 
+1. Download the project on 
